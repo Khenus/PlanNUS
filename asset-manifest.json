@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PlanNUS/static/css/main.afdb498a.chunk.css",
-    "main.js": "/PlanNUS/static/js/main.6d6257f8.chunk.js",
-    "main.js.map": "/PlanNUS/static/js/main.6d6257f8.chunk.js.map",
+    "main.js": "/PlanNUS/static/js/main.538b69e7.chunk.js",
+    "main.js.map": "/PlanNUS/static/js/main.538b69e7.chunk.js.map",
     "runtime-main.js": "/PlanNUS/static/js/runtime-main.e7881547.js",
     "runtime-main.js.map": "/PlanNUS/static/js/runtime-main.e7881547.js.map",
     "static/js/2.41465594.chunk.js": "/PlanNUS/static/js/2.41465594.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e7881547.js",
     "static/js/2.41465594.chunk.js",
     "static/css/main.afdb498a.chunk.css",
-    "static/js/main.6d6257f8.chunk.js"
+    "static/js/main.538b69e7.chunk.js"
   ]
 }
