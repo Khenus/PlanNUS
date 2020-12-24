@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/PlanNUS/static/css/main.7603451d.chunk.css",
-    "main.js": "/PlanNUS/static/js/main.9f9c23a5.chunk.js",
-    "main.js.map": "/PlanNUS/static/js/main.9f9c23a5.chunk.js.map",
-    "runtime-main.js": "/PlanNUS/static/js/runtime-main.1681ef3a.js",
-    "runtime-main.js.map": "/PlanNUS/static/js/runtime-main.1681ef3a.js.map",
-    "static/js/2.252a05e2.chunk.js": "/PlanNUS/static/js/2.252a05e2.chunk.js",
-    "static/js/2.252a05e2.chunk.js.map": "/PlanNUS/static/js/2.252a05e2.chunk.js.map",
-    "static/js/3.69d1b450.chunk.js": "/PlanNUS/static/js/3.69d1b450.chunk.js",
-    "static/js/3.69d1b450.chunk.js.map": "/PlanNUS/static/js/3.69d1b450.chunk.js.map",
+    "main.css": "/PlanNUS/static/css/main.c7be2c95.chunk.css",
+    "main.js": "/PlanNUS/static/js/main.8e61e872.chunk.js",
+    "main.js.map": "/PlanNUS/static/js/main.8e61e872.chunk.js.map",
+    "runtime-main.js": "/PlanNUS/static/js/runtime-main.e7881547.js",
+    "runtime-main.js.map": "/PlanNUS/static/js/runtime-main.e7881547.js.map",
+    "static/js/2.847d71a9.chunk.js": "/PlanNUS/static/js/2.847d71a9.chunk.js",
+    "static/js/2.847d71a9.chunk.js.map": "/PlanNUS/static/js/2.847d71a9.chunk.js.map",
+    "static/js/3.7b071010.chunk.js": "/PlanNUS/static/js/3.7b071010.chunk.js",
+    "static/js/3.7b071010.chunk.js.map": "/PlanNUS/static/js/3.7b071010.chunk.js.map",
     "index.html": "/PlanNUS/index.html",
-    "static/css/main.7603451d.chunk.css.map": "/PlanNUS/static/css/main.7603451d.chunk.css.map",
-    "static/js/2.252a05e2.chunk.js.LICENSE.txt": "/PlanNUS/static/js/2.252a05e2.chunk.js.LICENSE.txt"
+    "static/css/main.c7be2c95.chunk.css.map": "/PlanNUS/static/css/main.c7be2c95.chunk.css.map",
+    "static/js/2.847d71a9.chunk.js.LICENSE.txt": "/PlanNUS/static/js/2.847d71a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1681ef3a.js",
-    "static/js/2.252a05e2.chunk.js",
-    "static/css/main.7603451d.chunk.css",
-    "static/js/main.9f9c23a5.chunk.js"
+    "static/js/runtime-main.e7881547.js",
+    "static/js/2.847d71a9.chunk.js",
+    "static/css/main.c7be2c95.chunk.css",
+    "static/js/main.8e61e872.chunk.js"
   ]
 }
