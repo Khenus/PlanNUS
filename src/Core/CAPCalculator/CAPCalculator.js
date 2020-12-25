@@ -8,6 +8,7 @@ export default function CAPCalculator() {
     <div>
       <p>This is the CAP Calculator</p>
       <p>hsakflhaskdhf</p>
+
     </div>
   );
 }

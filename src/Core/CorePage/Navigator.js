@@ -44,6 +44,7 @@ export default function Navigator(props) {
         </nav>
 
         <Redirect exact from="/PlanNUS/" to="/PlanNUS/AcademicPlanner" />
+
         <div id="appWrapper">
           <Notification darkTheme={darkTheme} />
           <ImportConfirmation

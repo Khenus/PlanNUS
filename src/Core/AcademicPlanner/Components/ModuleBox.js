@@ -2,6 +2,7 @@ import React from 'react';
 import {IoClose} from 'react-icons/io5';
 
 // import './ModuleBox.css';
+
 import '../../../Style/AcademicPlanner/Components/AcadModuleBox.css';
 import '../../../Style/Common/ModuleBoxCommons.css';
 
