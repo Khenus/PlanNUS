@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PlanNUS/static/css/main.49e46ddc.chunk.css",
+    "main.css": "/PlanNUS/static/css/main.4a53de04.chunk.css",
     "main.js": "/PlanNUS/static/js/main.236c60c2.chunk.js",
     "main.js.map": "/PlanNUS/static/js/main.236c60c2.chunk.js.map",
     "runtime-main.js": "/PlanNUS/static/js/runtime-main.ff336d2c.js",
@@ -10,13 +10,13 @@
     "static/js/3.98ddd8fe.chunk.js": "/PlanNUS/static/js/3.98ddd8fe.chunk.js",
     "static/js/3.98ddd8fe.chunk.js.map": "/PlanNUS/static/js/3.98ddd8fe.chunk.js.map",
     "index.html": "/PlanNUS/index.html",
-    "static/css/main.49e46ddc.chunk.css.map": "/PlanNUS/static/css/main.49e46ddc.chunk.css.map",
+    "static/css/main.4a53de04.chunk.css.map": "/PlanNUS/static/css/main.4a53de04.chunk.css.map",
     "static/js/2.ddda5382.chunk.js.LICENSE.txt": "/PlanNUS/static/js/2.ddda5382.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ff336d2c.js",
     "static/js/2.ddda5382.chunk.js",
-    "static/css/main.49e46ddc.chunk.css",
+    "static/css/main.4a53de04.chunk.css",
     "static/js/main.236c60c2.chunk.js"
   ]
 }
